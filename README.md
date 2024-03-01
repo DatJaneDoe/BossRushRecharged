@@ -1,4 +1,5 @@
 # Boss Rush Recharged
+
 Overview Trailer: https://www.youtube.com/watch?v=Rk6ropO7h30
 
 Requires PathPlusPlus and ModHelper
@@ -23,3 +24,5 @@ Solo Boss Mode: Pick a single boss from storymode and the round it spawns on. De
 Note: Bosses in Solo Boss have 1 million health by default. Health can be adjusted under mod settings.
 
 Deadly Deflation: Start on round 31 with 500K. Can you defeat every story mode boss? Intended to be played of Deflation Mode 
+
+#Warning: Risk of save data being corrupted when playing events or boss challenges with this mod.

@@ -6,8 +6,10 @@ Requires PathPlusPlus and ModHelper
 Blastpopoulos is back, and hes hotter (and hungrier) than ever! Can your defenses stop his army of boss bloons and desire for grilled cheese? 
 
 Features:
+
 -12 modded bosses with new mechanics (no remakes like my last boss rush!)
--Imported 3D models mostly created by PoppingProductionsYT \n -BTD6 Song Remixes by Pizet, Koblerino, Dinkledorf, and Zephyr TV! (Got permission to use or the artist said go ahead in the song description)
+-Imported 3D models mostly created by PoppingProductionsYT
+-BTD6 Song Remixes by Pizet, Koblerino, Dinkledorf, and Zephyr TV! (Got permission to use or the artist said go ahead in the song description)
 -Low quality slideshow cutscenes made in clipart
 -DatJaneDoe Tower: Free tower that provides tips on how to beat the boss currently on screen. In story mode, can be upgraded by participating in a trivia minigame
 

@@ -25,4 +25,4 @@ Note: Bosses in Solo Boss have 1 million health by default. Health can be adjust
 
 Deadly Deflation: Start on round 31 with 500K. Can you defeat every story mode boss? Intended to be played of Deflation Mode 
 
-#Warning: Risk of save data being corrupted when playing events or boss challenges with this mod.
+# Warning: Risk of save data being corrupted when playing events or boss challenges with this mod.

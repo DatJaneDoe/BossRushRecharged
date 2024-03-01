@@ -1,4 +1,4 @@
-# BossRushRecharged
+# Boss Rush Recharged
 Overview Trailer: https://www.youtube.com/watch?v=Rk6ropO7h30
 
 Requires PathPlusPlus and ModHelper

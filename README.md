@@ -2,7 +2,7 @@
 
 Overview Trailer: https://www.youtube.com/watch?v=Rk6ropO7h30
 
-Requires PathPlusPlus and ModHelper
+Requires ModHelper. PathPlusPlus is only required if you want to do the Trivia Minigame.
 
 Blastpopoulos is back, and hes hotter (and hungrier) than ever! Can your defenses stop his army of boss bloons and desire for grilled cheese? 
 
